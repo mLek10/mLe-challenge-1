@@ -1,6 +1,6 @@
-# mLe-challenge-1
+# Marketing Strategies-challenge-1
 
-##Description
+## Description
 
 My motivation in this project was to refactor a marketing agencies site to make it more accessible. I was able to clean up some of the CSS and HTML code to make it more condensed and precise. I also added alt attributes to images and links to accomodate those who may be using assistive technologies. This project taught me a lot about the de-bugging process and helped reinforce CSS and HTML terminologies I was still working on getting accustomed to. It gave me a great boost in my code problem solving skills.
 
